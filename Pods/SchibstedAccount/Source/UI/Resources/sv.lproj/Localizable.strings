@@ -1,0 +1,99 @@
+"GlobalString.platformName" = "Schibsted-konto";
+"GlobalString.done" = "Fortsätt";
+"GlobalString.loading" = "Laddar...";
+
+"InfoString.rememberMe" = "Vi kommer att spara information från din session på din enhet så att du kan förbli inloggad. Du kan ändra detta senare genom att logga ut.";
+
+"IdentifierScreenString.title.sms" = "Logga in eller skapa konto";
+"IdentifierScreenString.title.email" = "Logga in eller skapa konto";
+"IdentifierScreenString.inputTitle.phone" = "Ange ditt telefonnummer";
+"IdentifierScreenString.inputTitle.email" = "Ange din e-postadress";
+"IdentifierScreenString.inputTitle.password" = "Ange din e-postadress";
+"IdentifierScreenString.infoText.internal" = "$0 är en del av Schibsted.";
+"IdentifierScreenString.infoText.external" = "$0 samarbetar med Schibsted.";
+"IdentifierScreenString.infoText.rest" = "Du behöver ett Schibsted-konto för att fortsätta. Du kan använda samma konto på alla Schibsteds webbplatser.";
+"IdentifierScreenString.whatsThis" = "Vad är ett Schibsted-konto?";
+"IdentifierScreenString.proceed" = "Fortsätt";
+"IdentifierScreenString.skip" = "Hoppa över";
+
+"PasswordScreenString.title.signin" = "Välkommen tillbaka";
+"PasswordScreenString.title.signup" = "Skapa konto";
+"PasswordScreenString.inputTitle" = "Ange ditt lösenord";
+"PasswordScreenString.proceed" = "Fortsätt";
+"PasswordScreenString.invalidPassword" = "Lösenordet du angav är felaktigt. Försök igen.";
+"PasswordScreenString.passwordTooShort" = "Ditt lösenord måste ha minst 8 tecken.";
+"PasswordScreenString.change" = "Inte du?";
+"PasswordScreenString.cancel" = "Avbryt";
+"PasswordScreenString.info" = "Minst 8 tecken";
+"PasswordScreenString.forgotPassword" = "Glömt lösenordet?";
+"PasswordScreenString.persistentLogin" = "Kom ihåg mig på den här enheten";
+"PasswordScreenString.whatsThis" = "Vad är detta?";
+"PasswordScreenString.ageLimit" = "Du måste vara minst 15 år gammal för att skapa ett Schibsted-konto";
+"PasswordScreenString.creatingNewAccountNotice" = "Du skapar nu ett nytt Schibsted-konto";
+"PasswordScreenString.createAccount" = "Skapa konto";
+"PasswordScreenString.biometricsPrompt" = "Logga in som $0";
+"PasswordScreenString.touchIdOnboarding.title" = "Vill du aktivera Touch ID?";
+"PasswordScreenString.touchIdOnboarding.message" = "Logga in på $0 med ditt fingeravtryck";
+"PasswordScreenString.touchIdOnboarding.accept" = "Aktivera";
+"PasswordScreenString.touchIdOnboarding.refuse" = "Inte nu";
+
+"VerifyScreenString.title" = "Vi har skickat en kod till dig";
+"VerifyScreenString.subtext" = "Ange verifieringskoden vi skickade till: ";
+"VerifyScreenString.inputTitle" = "Ange din verifieringskod";
+"VerifyScreenString.resend" = "Skicka koden igen";
+"VerifyScreenString.change" = "Inte du?";
+"VerifyScreenString.proceed" = "Fortsätt";
+
+"ResendScreenString.header" = "Vi har skickat en ny verifieringskod";
+"ResendScreenString.subtext" = "Koden skickades till: ";
+"ResendScreenString.edit.phone" = "Använd ett annat telefonnummer";
+"ResendScreenString.edit.email" = "Använd en annan e-postadress";
+"ResendScreenString.proceed" = "OK";
+
+"TermsScreenString.title" = "Användarvillkor";
+"TermsScreenString.subtext.create" = "För att kunna skapa ett konto måste du godkänna följande användarvillkor och sekretesspolicyer";
+"TermsScreenString.subtext.login" = "För att kunna logga in måste du godkänna följande användarvillkor och sekretesspolicyer";
+"TermsScreenString.platform.terms" = "Jag godkänner användarvillkoren för $0 ";
+"TermsScreenString.client.terms" = " och $0";
+"TermsScreenString.platform.privacy" = "Jag godkänner sekretesspolicyn för $0 ";
+"TermsScreenString.client.privacy" = " och $0";
+"TermsScreenString.proceed" = "Acceptera";
+"TermsScreenString.acceptTermError" = "Vänligen acceptera användarvillkoren för att fortsätta.";
+"TermsScreenString.acceptPrivacyError" = "Vänligen acceptera sekretesspolicyn för att fortsätta.";
+"TermsScreenString.learnMore" = "Läs mer om uppdateringen";
+
+"TermsSummaryScreenString.title" = "Uppdaterade användarvillkoren";
+
+"CheckInboxScreenStrings.sentLink" = "Vi har skickat en verifieringlänk till:";
+"CheckInboxScreenStrings.change" = "Använd en annan e-postadress";
+"CheckInboxScreenStrings.title" = "Kolla din inkorg";
+
+"RequiredFieldsScreenString.title" = "Avsluta";
+"RequiredFieldsScreenString.subtext" = "Vi använder de här uppgifterna till exempel för att förbättra våra tjänster och visa dig reklam och innehåll som är relevant för dig.\n\nDu kan $0 eller $1.";
+"RequiredFieldsScreenString.subtext.link0" = "när som helst ändra dina integritetsval";
+"RequiredFieldsScreenString.subtext.link1" = "läsa mer om Schibsted, data och du";
+"RequiredFieldsScreenString.proceed" = "Fortsätt";
+
+"RequiredField.givenName.title" = "Förnamn";
+"RequiredField.familyName.title" = "Efternamn";
+"RequiredField.birthday.title" = "Födelsedatum";
+"RequiredField.birthday.placeholder" = "YYYY-MM-DD";
+"RequiredField.phoneNumber.title" = "Telefonnummer";
+
+"RequiredField.error.missing" = "Det här fältet måste fyllas i.";
+"RequiredField.error.lessThanThree" = "Detta fält måste vara minst 3 tecken";
+"RequiredField.error.birthdateInvalid" = "Detta datum är ogiltigt";
+"RequiredField.error.numberInvalid" = "Detta telefonnummer är ogiltigt.";
+
+"ErrorScreenString.heading" = "Någonting gick fel!";
+"ErrorScreenString.proceed" = "OK";
+
+"ErrorString.invalidCode" = "Kontrollera koden och försök igen.";
+"ErrorString.invalidPhoneNumber" = "Ange ett giltigt telefonnummer.";
+"ErrorString.invalidEmail" = "Ange en giltig e-postadress.";
+"ErrorString.networkingError" = "Vi har problem för tillfället. Försök igen senare.";
+"ErrorString.unexpected" = "Försök igen senare.";
+"ErrorString.tooManyRequests" = "Du har begärt för många koder. Försök igen senare.";
+"ErrorString.connectionTimeout" = "Uppkopplingen avbröts. Försök igen.";
+"ErrorString.noInternetConnection" = "Det gick inte att ansluta till internet. Kontrollera din anslutning.";
+"ErrorString.unableToResend" = "Kan inte skicka om koden. Försök igen senare.";

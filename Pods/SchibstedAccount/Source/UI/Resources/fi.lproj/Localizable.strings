@@ -1,0 +1,99 @@
+"GlobalString.platformName" = "Schibsted-tili";
+"GlobalString.done" = "Jatka";
+"GlobalString.loading" = "Sisältöä...";
+
+"InfoString.rememberMe" = "Tallennamme tietoa istunnostasi sinun laitteellesi, jotta voit pysyä kirjautuneena. Voit muuttaa asetusta myöhemmin kirjautumalla ulos.";
+
+"IdentifierScreenString.title.sms" = "Kirjaudu sisään tai luo tili";
+"IdentifierScreenString.title.email" = "Kirjaudu sisään tai luo tili";
+"IdentifierScreenString.inputTitle.phone" = "Kirjoita puhelinnumerosi";
+"IdentifierScreenString.inputTitle.email" = "Anna sähköpostiosoitteesi";
+"IdentifierScreenString.inputTitle.password" = "Anna sähköpostiosoitteesi";
+"IdentifierScreenString.infoText.internal" = "$0 on osa Schibsted-konsernia.";
+"IdentifierScreenString.infoText.external" = "$0 on Schibsted-yhteistyökumppani. ";
+"IdentifierScreenString.infoText.rest" = "Jatkaaksesi tarvitset Schibsted-tilin. Voit käyttää samaa tiliä kaikilla Schibsted-sivustoilla.";
+"IdentifierScreenString.whatsThis" = "Mikä Schibsted-tili on?";
+"IdentifierScreenString.proceed" = "Jatka";
+"IdentifierScreenString.skip" = "hypätä yli";
+
+"PasswordScreenString.title.signin" = "Tervetuloa takaisin";
+"PasswordScreenString.title.signup" = "Luo tili";
+"PasswordScreenString.inputTitle" = "Kirjoita salasanasi";
+"PasswordScreenString.proceed" = "Jatka";
+"PasswordScreenString.invalidPassword" = "Syöttämäsi salasana on virheellinen. Yritä uudelleen.";
+"PasswordScreenString.passwordTooShort" = "Salasanassa tulee olla vähintään 8 merkkiä.";
+"PasswordScreenString.change" = "Et sinä?";
+"PasswordScreenString.cancel" = "Peruuta";
+"PasswordScreenString.info" = "Vähintään 8 merkkiä";
+"PasswordScreenString.forgotPassword" = "Unohtuiko salasana?";
+"PasswordScreenString.persistentLogin" = "Muista minut tällä laitteella";
+"PasswordScreenString.whatsThis" = "Mikä tämä on?";
+"PasswordScreenString.ageLimit" = "Sinun tulee olla vähintään 15 vuoden ikäinen, jotta voit luoda Schibsted-tilin";
+"PasswordScreenString.creatingNewAccountNotice" = "Olet nyt luomassa uutta Schibsted-tiliä";
+"PasswordScreenString.createAccount" = "Luo tilit";
+"PasswordScreenString.biometricsPrompt" = "Kirjaudu sisään $0";
+"PasswordScreenString.touchIdOnboarding.title" = "Haluatko aktivoida Touch ID:n?";
+"PasswordScreenString.touchIdOnboarding.message" = "Kirjaudu $0 sormenjälkitunnistautumisella";
+"PasswordScreenString.touchIdOnboarding.accept" = "Aktivoida";
+"PasswordScreenString.touchIdOnboarding.refuse" = "Ei nyt";
+
+"VerifyScreenString.title" = "Koodi on lähetetty sinulle";
+"VerifyScreenString.subtext" = "Kirjoita vahvistuskoodi, jonka lähetimme, vastaanottaja:";
+"VerifyScreenString.inputTitle" = "Anna koodi";
+"VerifyScreenString.resend" = "Lähetä koodi uudelleen";
+"VerifyScreenString.change" = "Et sinä?";
+"VerifyScreenString.proceed" = "Jatka";
+
+"ResendScreenString.header" = "Uusi vahvistuskoodi on lähetetty sinulle";
+"ResendScreenString.subtext" = "Koodi on lähetetty, vastaanottaja:";
+"ResendScreenString.edit.phone" = "Käytä toista puhelinnumeroa";
+"ResendScreenString.edit.email" = "Käytä toista sähköpostiosoitetta";
+"ResendScreenString.proceed" = "OK";
+
+"TermsScreenString.title" = "Käyttöehdot";
+"TermsScreenString.subtext.create" = "Jotta voit luoda tilin, sinun tulee hyväksyä seuraavat käyttöehdot ja tietosuojalausunnot";
+"TermsScreenString.subtext.login" = "Jotta voit kirjautua tilillesi, sinun tulee hyväksyä seuraavat käyttöehdot ja tietosuojalausunnot";
+"TermsScreenString.platform.terms" = "Hyväksyn palveluiden $0 käyttöehdot";
+"TermsScreenString.client.terms" = "ja $0";
+"TermsScreenString.platform.privacy" = "Hyväksyn palveluiden $0 tietosuojalausunnot";
+"TermsScreenString.client.privacy" = "ja $0";
+"TermsScreenString.proceed" = "Hyväksy";
+"TermsScreenString.acceptTermError" = "Jatka hyväksymällä käyttöehdot.";
+"TermsScreenString.acceptPrivacyError" = "Jatka hyväksymällä tietosuojalausunto.";
+"TermsScreenString.learnMore" = "Lisätietoja päivityksestä";
+
+"TermsSummaryScreenString.title" = "Päivitetyt käyttöehdot";
+
+"CheckInboxScreenStrings.sentLink" = "Vahvistuslinkki on lähetetty osoitteeseen:";
+"CheckInboxScreenStrings.change" = "Käytä toista osoitetta";
+"CheckInboxScreenStrings.title" = "Tarkista postilaatikkosi";
+
+"RequiredFieldsScreenString.title" = "Viimeistele";
+"RequiredFieldsScreenString.subtext" = "Käytämme tietoja esimerkiksi parantamaan palvelujamme ja näyttämään sinulle mielekkäitä mainoksia ja sisältöä.\n \nVoit $0 tai $1.";
+"RequiredFieldsScreenString.subtext.link0" = "muuttaa yksityisyysasetuksia milloin hyvänsä";
+"RequiredFieldsScreenString.subtext.link1" = "lukea lisää Schisbstedistä, tiedoista ja sinusta";
+"RequiredFieldsScreenString.proceed" = "Jatka";
+
+"RequiredField.givenName.title" = "Etunimi";
+"RequiredField.familyName.title" = "Sukunimi";
+"RequiredField.birthday.title" = "Syntymäpäivä";
+"RequiredField.birthday.placeholder" = "YYYY-MM-DD";
+"RequiredField.phoneNumber.title" = "Puhelinnumero";
+
+"RequiredField.error.missing" = "Tämä kenttä vaaditaan.";
+"RequiredField.error.lessThanThree" = "Tässä kentässä tulee olla vähintään 3 merkkiä.";
+"RequiredField.error.birthdateInvalid" = "Tämä päivämäärä on virheellinen.";
+"RequiredField.error.numberInvalid" = "Tämä puhelinnumero on virheellinen.";
+
+"ErrorScreenString.heading" = "Jokin meni pieleen!";
+"ErrorScreenString.proceed" = "OK";
+
+"ErrorString.invalidCode" = "Tarkista koodi ja yritä uudelleen.";
+"ErrorString.invalidPhoneNumber" = "Anna kelvollinen puhelinnumero.";
+"ErrorString.invalidEmail" = "Anna kelvollinen sähköpostiosoite.";
+"ErrorString.networkingError" = "Ikävä kyllä meillä on tällä hetkellä ongelmia. Yritä myöhemmin uudelleen.";
+"ErrorString.unexpected" = "Yritä myöhemmin uudelleen.";
+"ErrorString.tooManyRequests" = "Olet lähettänyt liian monta koodipyyntöä. Yritä myöhemmin uudelleen.";
+"ErrorString.connectionTimeout" = "Yhteys on aikakatkaistu. Yritä uudelleen.";
+"ErrorString.noInternetConnection" = "Yhteyttä ei voitu muodostaa. Tarkista internetyhteys.";
+"ErrorString.unableToResend" = "Koodia ei onnistuttu lähettämään uudelleen. Yritä myöhemmin uudelleen.";

@@ -1,0 +1,99 @@
+"GlobalString.platformName" = "Schibsted-konto";
+"GlobalString.done" = "Fortsett";
+"GlobalString.loading" = "Laster...";
+
+"InfoString.rememberMe" = "Vi plasserer en informasjonskapsel på enheten din for å holde deg logget inn. Du kan endre dette alternativet senere, ved å logge deg ut eller slette informasjonskapselen.";
+
+"IdentifierScreenString.title.sms" = "Logg inn eller opprett konto";
+"IdentifierScreenString.title.email" = "Logg inn eller opprett konto";
+"IdentifierScreenString.inputTitle.phone" = "Skriv inn din telefonnummer";
+"IdentifierScreenString.inputTitle.email" = "Skriv inn din e-postadresse";
+"IdentifierScreenString.inputTitle.password" = "Skriv inn din e-postadresse";
+"IdentifierScreenString.infoText.internal" = "$0 er en del av Schibsted.";
+"IdentifierScreenString.infoText.external" = "$0 er i samarbeid med Schibsted. ";
+"IdentifierScreenString.infoText.rest" = "Du trenger en Schibsted-konto for å fortsette. Du kan bruke denne kontoen på alle Schibsted-sider.";
+"IdentifierScreenString.whatsThis" = "Hva er en Schibsted-konto?";
+"IdentifierScreenString.proceed" = "Fortsett";
+"IdentifierScreenString.skip" = "Hopp over";
+
+"PasswordScreenString.title.signin" = "Velkommen tilbake";
+"PasswordScreenString.title.signup" = "Opprett konto";
+"PasswordScreenString.inputTitle" = "Vennligst oppgi passordet ditt";
+"PasswordScreenString.proceed" = "Fortsett";
+"PasswordScreenString.invalidPassword" = "Passordet du oppga er feil. Vennligst prøv igjen.";
+"PasswordScreenString.passwordTooShort" = "Passordet ditt skal ha minst 8 tegn.";
+"PasswordScreenString.change" = "Ikke deg?";
+"PasswordScreenString.cancel" = "Avbryt";
+"PasswordScreenString.info" = "Minst 8 tegn";
+"PasswordScreenString.forgotPassword" = "Glemt passord?";
+"PasswordScreenString.persistentLogin" = "Husk meg på denne enheten";
+"PasswordScreenString.whatsThis" = "Hva er dette?";
+"PasswordScreenString.ageLimit" = "Du må være minst 15 år for å opprette en Schibsted-konto";
+"PasswordScreenString.creatingNewAccountNotice" = "Du oppretter nå en ny Schibsted-konto";
+"PasswordScreenString.createAccount" = "Opprett konto";
+"PasswordScreenString.biometricsPrompt" = "Logg inn som $0";
+"PasswordScreenString.touchIdOnboarding.title" = "Vil du aktivere Touch ID?";
+"PasswordScreenString.touchIdOnboarding.message" = "Logg inn på $0 med fingeravtrykket ditt";
+"PasswordScreenString.touchIdOnboarding.accept" = "Aktivere";
+"PasswordScreenString.touchIdOnboarding.refuse" = "Ikke nå";
+
+"VerifyScreenString.title" = "Vi har sendt deg en kode";
+"VerifyScreenString.subtext" = "Tast inn bekreftelseskoden vi sendte til: ";
+"VerifyScreenString.inputTitle" = "Skriv inn kode";
+"VerifyScreenString.resend" = "Send koden igjen";
+"VerifyScreenString.change" = "Ikke deg?";
+"VerifyScreenString.proceed" = "Fortsett";
+
+"ResendScreenString.header" = "Vi har sendt deg en ny bekreftelseskode";
+"ResendScreenString.subtext" = "Koden ble sendt til: ";
+"ResendScreenString.edit.phone" = "Bruk et annet telefonnummer";
+"ResendScreenString.edit.email" = "Bruk en annen e-postadresse";
+"ResendScreenString.proceed" = "OK";
+
+"TermsScreenString.title" = "Bruksvilkår";
+"TermsScreenString.subtext.create" = "For å kunne opprette kontoen din, må du godta følgende vilkår, betingelser og personvernerklæringer";
+"TermsScreenString.subtext.login" = "For å logge inn, må du godta følgende vilkår, betingelser og personvernerklæringer";
+"TermsScreenString.platform.terms" = "Jeg godtar vilkårene og betingelsene for $0 ";
+"TermsScreenString.client.terms" = "og $0";
+"TermsScreenString.platform.privacy" = "Jeg godtar personvernerklæringen for $0 ";
+"TermsScreenString.client.privacy" = "og $0";
+"TermsScreenString.proceed" = "Godta";
+"TermsScreenString.acceptTermError" = "Vennligst godta vilkårene og betingelsene for å fortsette.";
+"TermsScreenString.acceptPrivacyError" = "Vennligst godta personvernerklæringen for å fortsette.";
+"TermsScreenString.learnMore" = "Lær mer om oppdateringen";
+
+"TermsSummaryScreenString.title" = "Oppdaterte brukervilkår og betingelser";
+
+"CheckInboxScreenStrings.sentLink" = "Vi har sendt enbekreftelseskobling til: ";
+"CheckInboxScreenStrings.change" = "Bruk en annen e-postadresse";
+"CheckInboxScreenStrings.title" = "Sjekk innboksen din";
+
+"RequiredFieldsScreenString.title" = "Fullfør";
+"RequiredFieldsScreenString.subtext" = "Vi bruker denne informasjonen til for eksempel å forbedre tjenesten vår og gi deg relevant reklame og innhold.\n \nDu kan $0, eller $1.";
+"RequiredFieldsScreenString.subtext.link0" = "justere personvernvalgene dine når som helst";
+"RequiredFieldsScreenString.subtext.link1" = "finne ut mer om Schibsted, data og deg";
+"RequiredFieldsScreenString.proceed" = "Fortsett";
+
+"RequiredField.givenName.title" = "Fornavn";
+"RequiredField.familyName.title" = "Etternavn";
+"RequiredField.birthday.title" = "Fødselsdag";
+"RequiredField.birthday.placeholder" = "YYYY-MM-DD";
+"RequiredField.phoneNumber.title" = "Telefonnummer";
+
+"RequiredField.error.missing" = "Dette feltet må fylles ut.";
+"RequiredField.error.lessThanThree" = "Dette feltet må bestå av minst 3 tegn.";
+"RequiredField.error.birthdateInvalid" = "Denne datoen er ugyldig.";
+"RequiredField.error.numberInvalid" = "Dette telefonnummeret er ugyldig.";
+
+"ErrorScreenString.heading" = "Noe gikk galt!";
+"ErrorScreenString.proceed" = "OK";
+
+"ErrorString.invalidCode" = "Sjekk koden din og prøv igjen.";
+"ErrorString.invalidPhoneNumber" = "Oppgi et gyldig telefonnummer.";
+"ErrorString.invalidEmail" = "Oppgi en gyldig e-postadresse.";
+"ErrorString.networkingError" = "Vi har problemer for øyeblikket. Prøv igjen senere.";
+"ErrorString.unexpected" = "Prøv igjen senere.";
+"ErrorString.tooManyRequests" = "Du har sendt for mange kodeforespørsler. Prøv igjen senere.";
+"ErrorString.connectionTimeout" = "Tilkoblingen ble tidsavbrutt. Prøv igjen.";
+"ErrorString.noInternetConnection" = "Kan ikke koble til internett. Sjekk tilkoblingen din.";
+"ErrorString.unableToResend" = "Klarte ikke å sende koden på nytt. Prøv igjen senere.";
